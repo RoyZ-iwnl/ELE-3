@@ -1,0 +1,66 @@
+.\objects\display.o: ..\Bsp\display\display.c
+.\objects\display.o: ..\Bsp\display\display.h
+.\objects\display.o: ..\User\main.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal.h
+.\objects\display.o: ..\User\stm32f1xx_hal_conf.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_rcc.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_def.h
+.\objects\display.o: ..\CMSIS\stm32f1xx.h
+.\objects\display.o: ..\CMSIS\stm32f103xe.h
+.\objects\display.o: ..\CMSIS\core_cm3.h
+.\objects\display.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stdint.h
+.\objects\display.o: ..\CMSIS\cmsis_version.h
+.\objects\display.o: ..\CMSIS\cmsis_compiler.h
+.\objects\display.o: ..\CMSIS\cmsis_armcc.h
+.\objects\display.o: ..\CMSIS\system_stm32f1xx.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal.h
+.\objects\display.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stddef.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_rcc_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_gpio.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_gpio_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_exti.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_dma.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_dma_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_eth.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_can.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_cec.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_cortex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_adc.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_adc_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_crc.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_dac.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_dac_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_flash.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_flash_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_sram.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_ll_fsmc.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_nor.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_i2c.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_i2s.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_iwdg.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_pwr.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_rtc.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_rtc_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_pccard.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_sd.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_ll_sdmmc.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_nand.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_spi.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_tim.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_tim_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_uart.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_usart.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_irda.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_smartcard.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_wwdg.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_pcd.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_ll_usb.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_pcd_ex.h
+.\objects\display.o: ..\HALDriver\Inc\stm32f1xx_hal_hcd.h
+.\objects\display.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stdio.h
+.\objects\display.o: ..\Bsp\oled\oled.h
+.\objects\display.o: ..\User\main.h
+.\objects\display.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stdlib.h
+.\objects\display.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\math.h
+.\objects\display.o: ..\Bsp\key\key.h
+.\objects\display.o: ..\Bsp\sensor\sensor.h

@@ -1,0 +1,66 @@
+.\objects\sensor.o: ..\Bsp\sensor\sensor.c
+.\objects\sensor.o: ..\Bsp\sensor\sensor.h
+.\objects\sensor.o: ..\User\main.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal.h
+.\objects\sensor.o: ..\User\stm32f1xx_hal_conf.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_rcc.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_def.h
+.\objects\sensor.o: ..\CMSIS\stm32f1xx.h
+.\objects\sensor.o: ..\CMSIS\stm32f103xe.h
+.\objects\sensor.o: ..\CMSIS\core_cm3.h
+.\objects\sensor.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stdint.h
+.\objects\sensor.o: ..\CMSIS\cmsis_version.h
+.\objects\sensor.o: ..\CMSIS\cmsis_compiler.h
+.\objects\sensor.o: ..\CMSIS\cmsis_armcc.h
+.\objects\sensor.o: ..\CMSIS\system_stm32f1xx.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal.h
+.\objects\sensor.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stddef.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_rcc_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_gpio.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_gpio_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_exti.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_dma.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_dma_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_eth.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_can.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_cec.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_cortex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_adc.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_adc_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_crc.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_dac.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_dac_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_flash.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_flash_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_sram.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_ll_fsmc.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_nor.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_i2c.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_i2s.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_iwdg.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_pwr.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_rtc.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_rtc_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_pccard.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_sd.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_ll_sdmmc.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_nand.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_spi.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_tim.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_tim_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_uart.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_usart.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_irda.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_smartcard.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_wwdg.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_pcd.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_ll_usb.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_pcd_ex.h
+.\objects\sensor.o: ..\HALDriver\Inc\stm32f1xx_hal_hcd.h
+.\objects\sensor.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stdio.h
+.\objects\sensor.o: ..\Bsp\oled\oled.h
+.\objects\sensor.o: ..\User\main.h
+.\objects\sensor.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\stdlib.h
+.\objects\sensor.o: C:\Program Files\ARM\ADSv1_2\INCLUDE\math.h
+.\objects\sensor.o: ..\Bsp\key\key.h
+.\objects\sensor.o: ..\Bsp\sensor\sensor.h
